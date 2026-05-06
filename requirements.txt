@@ -1,0 +1,6 @@
+llama-index
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+python-dotenv
+pymupdf
+llama-parse
